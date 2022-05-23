@@ -9,9 +9,20 @@ I am doing this as a way to maintain my skills and fluidity in python and other 
 * [ ] Whole structure
 * [ ] HTML template 
     * [ ] Home Page
+          * [ ] Portfolio 
+          * [ ] Who Am I, ...
     * [ ] Contact Page 
-    * [ ] style.css
-* [ ] Contact form
+          * [ ] Discord, Git, Facebook, automatic mail 
+          * [ ] Contact form
+    * [ ] MDPSaver
+          * [ ] Functions 
+          * [ ] To come
+    * [ ] StructBot
+          * [ ] Function 
+          * [ ] Who's interest
+          * [ ] To come
+
+* [ ] style.css
 * [ ] Interactive visuals 
   
 
